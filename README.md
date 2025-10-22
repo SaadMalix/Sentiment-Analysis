@@ -25,7 +25,5 @@ It also includes **auto spell-correction** and **custom slang handling** (e.g., 
 | **NLP Libraries** | TextBlob, NLTK (VADER) |
 | **Language** | Python 3 |
 
----
 
-## 🏗️ Project Structure
 
